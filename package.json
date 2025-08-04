@@ -1,11 +1,11 @@
 {
-  "name": "blendeb-shop-js",
+  "name": "new-project",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/blendeb-shop-js/",
+    "build": "vite build --base=/new-project/",
     "preview": "vite preview"
   },
   "devDependencies": {

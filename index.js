@@ -1,0 +1,2 @@
+import{c as t,d as a,r as e,e as r,f as n,h as d,g as s,j as i,a as o,b as l}from"./assets/handlers-HmEGw_HH.js";import"./assets/vendor-4yCzdkXl.js";t();document.addEventListener("DOMContentLoaded",a);e.categoriesList.addEventListener("click",r);e.loadMoreBtn.addEventListener("click",n);e.productsList.addEventListener("click",d);e.searchForm.addEventListener("submit",s);e.formBtnClearValue.addEventListener("click",i);e.themeToggleBtn.addEventListener("click",o);window.addEventListener("scroll",l);
+//# sourceMappingURL=index.js.map

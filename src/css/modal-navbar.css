@@ -1,6 +1,6 @@
 /* Класи для модального вікна navbar */
 
-.modal-navbar {
+/* .modal-navbar {
   position: fixed;
   top: 0;
   left: 0;
@@ -17,4 +17,4 @@
   &.modal--is-open {
     display: flex;
   }
-}
+} */
